@@ -1,10 +1,10 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="assets/banner-dark.svg" alt="Animated Banner" />
+  <img src="assets/banner-dark-fixed.svg" alt="Animated Banner" />
 </p>
 
 <!-- Judul dan Perkenalan -->
-<h1 align="center">👋 Hi, I'm King!</h1>
+<h1 align="center">👋 Hi, I'm Rainzy!</h1>
 
 <p align="center">
   💻 Informatics Engineering Student • 🇮🇩 Indonesia <br>
@@ -16,7 +16,7 @@
 
 <!-- Badge & Statistik -->
 <p align="center">
-  <a href="https://github.com/KingUsername"> <!-- Ganti dengan username GitHub kamu -->
+  <a href="https://github.com/Rainzy21"> <!-- Ganti dengan username GitHub kamu -->
     <img src="https://komarev.com/ghpvc/?username=KingUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" />
   </a>
   <a href="mailto:youremail@example.com">
