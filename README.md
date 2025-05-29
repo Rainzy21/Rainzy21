@@ -1,7 +1,5 @@
 <!-- Banner Animasi -->
-<p align="center">
-  <img src="assets/banner-dark-fixed.svg" alt="Animated Banner" />
-</p>
+
 
 <!-- Judul dan Perkenalan -->
 <h1 align="center">👋 Hi, I'm Rainzy!</h1>
