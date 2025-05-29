@@ -1,0 +1,24 @@
+<svg viewBox="0 0 1000 200" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="darkGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f2027" />
+      <stop offset="50%" stop-color="#203a43" />
+      <stop offset="100%" stop-color="#2c5364" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#darkGrad)" />
+
+  <text x="50%" y="80" font-size="32" fill="#ffffff" font-family="Segoe UI, sans-serif" text-anchor="middle" alignment-baseline="middle">
+    👑 Hi, I'm Rainzyy
+  </text>
+
+  <text x="50%" y="115" font-size="20" fill="#00ffff" font-family="Segoe UI, sans-serif" text-anchor="middle" alignment-baseline="middle">
+    Informatics Engineer | @Rainzyy
+  </text>
+
+  <text x="50%" y="150" font-size="18" fill="#FFD700" font-family="Courier New, monospace" text-anchor="middle" alignment-baseline="middle">
+    PHP &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; System Development
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
