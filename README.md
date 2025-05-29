@@ -1,6 +1,6 @@
 <!-- Banner Animasi -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Animated Banner" />
+  <img src="assets/banner-dark.svg" alt="Animated Banner" />
 </p>
 
 <!-- Judul dan Perkenalan -->
