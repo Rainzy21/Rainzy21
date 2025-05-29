@@ -9,11 +9,11 @@
   <rect width="100%" height="200" fill="url(#darkGrad)" />
 
   <text x="50%" y="50%" font-size="28" fill="#ffffff" font-family="Segoe UI, sans-serif" text-anchor="middle" alignment-baseline="middle">
-    👑 Hi, I'm King — Informatics Engineer
+    👑 Hi, I'm Rainzy — Informatics Engineer
   </text>
 
   <text x="50%" y="135" font-size="18" fill="#00ffff" font-family="Courier New, monospace" text-anchor="middle">
-    PHP | MySQL | System Development
+    Python | HTML | PHP
     <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
   </text>
 </svg>
