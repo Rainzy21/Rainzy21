@@ -15,9 +15,9 @@
 <!-- Badge & Statistik -->
 <p align="center">
   <a href="https://github.com/Rainzy21"> <!-- Ganti dengan username GitHub kamu -->
-    <img src="https://komarev.com/ghpvc/?username=KingUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" />
+    <img src="https://komarev.com/ghpvc/?username=Rainzy21&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:fashahervino@gmail.com">
     <img src="https://img.shields.io/badge/Email-DarkBlue?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -26,8 +26,8 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm studying **Informatics Engineering**
-- 🌱 Currently learning **Laravel**, **REST API**, and **Database Normalization**
+- 🎓 I'm studying at **Muhammadiyah University of East Kalimantan**
+- 🌱 Currently learning **HTML**, **CSS**, and **MySql**
 - 🔭 Building a **Console Rental Management System** using PHP & MySQL
 - 🎯 My goal: Become a full-stack web developer
 
