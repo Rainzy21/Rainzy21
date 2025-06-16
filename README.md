@@ -3,9 +3,9 @@
   <br><br><br>
   
 <p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="80%"><br><br><br><br>
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtiMjM5dGlxZHlyaDFrbTB4bThnYTN0djRrNGNsaHNrbW9uanc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="80%"><br><br><br><br>
   <a href="https://github.com/Rainzy21">
-    <img src="./assets/banner-dark-fixed.svg" />
+    <img src="./assets/contributions.svg" />
   </a>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
@@ -34,6 +34,11 @@
   <td align="center" width="90">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
   <br>JavaScript
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="45" height="45" />
+  <br>PHP
   </td>
 
   <td align="center" width="90">
