@@ -1,4 +1,4 @@
-<h2 align="center"><b>Welcome To My Profile :D</b></h2>
+<h2 align="center"><b>Welcome To My Profile</b></h2>
   
   <br><br><br>
   
@@ -52,13 +52,18 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <br>AI
+  <img src="https://skillicons.dev/icons?i=php" />
+  <br>PHP
   </td>
 
   <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=ps" />
   <br>PS
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=canva" />
+  <br>CANVA
   </td>
 
   <td align="center" width="90">
