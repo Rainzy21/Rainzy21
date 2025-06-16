@@ -37,6 +37,11 @@
   </td>
 
   <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+  <br>MySql
+  </td>
+
+  <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <br>Bootstrap
   </td>
@@ -59,11 +64,6 @@
   <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=ps" />
   <br>PS
-  </td>
-
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=canva" />
-  <br>CANVA
   </td>
 
   <td align="center" width="90">
