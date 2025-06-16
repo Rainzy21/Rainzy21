@@ -8,7 +8,7 @@
     <img src="./assets/contributions.svg" />
   </a>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainzy21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 </p>
 
@@ -16,7 +16,7 @@
 <br>
 
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="500"> Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="500"> Tech Stack:
 
 <table align='center'>
 <tr>
@@ -34,11 +34,6 @@
   <td align="center" width="90">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
   <br>JavaScript
-  </td>
-
-  <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="45" height="45" />
-  <br>PHP
   </td>
 
   <td align="center" width="90">
