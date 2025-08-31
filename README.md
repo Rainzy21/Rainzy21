@@ -32,8 +32,8 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-  <br>JavaScript
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+  <br>React
   </td>
 
   <td align="center" width="90">
@@ -42,8 +42,8 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <br>React
+  <img src="https://skillicons.dev/icons?i=js" />
+  <br>JavaScript
   </td>
 
   <td align="center" width="90">
@@ -57,8 +57,8 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=php" />
-  <br>PHP
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <br>Vscode
   </td>
 
   <td align="center" width="90">
