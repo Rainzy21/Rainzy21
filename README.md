@@ -42,8 +42,8 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <br>Bootstrap
+  <img src="https://skillicons.dev/icons?i=react" />
+  <br>React
   </td>
 
   <td align="center" width="90">
@@ -62,8 +62,8 @@
   </td>
 
   <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=ps" />
-  <br>PS
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <br>NextJs
   </td>
 
   <td align="center" width="90">
