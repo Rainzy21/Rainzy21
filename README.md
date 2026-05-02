@@ -7,9 +7,9 @@
   <a href="https://github.com/Rainzy21">
     <img src="./assets/contributions.svg" />
   </a>
-
+  
 </p>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rainzy21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
 <br/>
 <br>
 
@@ -71,6 +71,5 @@
 </tr>
 
 </table>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rainzy21&label=Profile%20views&color=0e75b6&style=flat" alt="Rainzy21" width="" height="40px"/></p>
