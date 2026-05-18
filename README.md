@@ -25,9 +25,4 @@ I'm Hervino Islami Fasha, a student majoring in Informatic Engineering at the Mu
 ![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
 -->
 
-### Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainzy21&theme=maroongold&show_icons=true&)
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
