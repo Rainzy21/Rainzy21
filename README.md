@@ -1,75 +1,40 @@
-<h2 align="center"><b>Welcome To My Profile</b></h2>
-  
-  <br><br><br>
-  
-<p align="center">
-  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtiMjM5dGlxZHlyaDFrbTB4bThnYTN0djRrNGNsaHNrbW9uanc2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="80%"><br><br><br><br>
-  <a href="https://github.com/Rainzy21">
-    <img src="./assets/contributions.svg" />
-  </a>
-  
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:260000,100:b30000&text=Hi,I'am%20%20Hervino%20Islami%20Fasha&reversal=false&textBg=false&fontColor=000000&fontSize=50&animation=twinkling" /> 
+ 
+I'm Hervino Islami Fasha, a student majoring in Informatic Engineering at the Muhammadiyah University of East Kalimantan. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
 
-<br/>
-<br>
+[![Mail Badge](https://img.shields.io/badge/-fashahervino@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:fashahervino@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@hrvnfsha__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/hrvnfsha/) 
+[![Linkedin Badge](https://img.shields.io/badge/-hervinofasha-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hervino-islami-fasha-447953340) 
+[![](https://komarev.com/ghpvc/?username=Rainzy21&color=blue&label=Profile%20Views)](https://github.com/Rainzy21)
+[![](https://img.shields.io/github/followers/Rainzy21?label=GitHub%20Followers)](https://github.com/Rainzy21)
 
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,py)
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack:
+### Other Tech Stacks
 
-<table align='center'>
-<tr>
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,js,dart,mysql,postgres,django)
 
-  <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-  <br>Python
-  </td>
+### Tools
 
-  <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" />
-  <br>Github
-  </td>
+![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,figma,git)
+<!--
 
-  <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-  <br>React
-  </td>
+### Others
 
-  <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
-  <br>MySql
-  </td>
+![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
+-->
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=js" />
-  <br>JavaScript
-  </td>
+### Statistics
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=css" />
-  <br>CSS
-  </td>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainzy21&theme=maroongold&show_icons=true&)
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <br>HTML
-  </td>
+<!---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rainzy21&theme=maroongold&card_width=470)
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <br>Vscode
-  </td>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rainzy21&theme=maroongold)](https://git.io/streak-stats)
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <br>NextJs
-  </td>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rainzy21&theme=maroongold" alt="GitHub Streak" /></a>
+--->
 
-  <td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <br>Figma
-  </td>
-</tr>
-
-</table>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rainzy21&label=Profile%20views&color=0e75b6&style=flat" alt="Rainzy21" width="" height="40px"/></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
