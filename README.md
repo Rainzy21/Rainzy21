@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:260000,100:b30000&text=Hi,I'am%20%20Hervino%20Islami%20Fasha&reversal=false&textBg=false&fontColor=000000&fontSize=50&animation=twinkling" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:260000,100:b30000&text=Hi,I'am%20%20Hervino%20Islami%20Fasha&reversal=false&textBg=false&fontColor=ffffff&fontSize=50&animation=twinkling" /> 
  
 I'm Hervino Islami Fasha, a student majoring in Informatic Engineering at the Muhammadiyah University of East Kalimantan. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
 
@@ -29,12 +29,5 @@ I'm Hervino Islami Fasha, a student majoring in Informatic Engineering at the Mu
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainzy21&theme=maroongold&show_icons=true&)
 
-<!---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rainzy21&theme=maroongold&card_width=470)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rainzy21&theme=maroongold)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rainzy21&theme=maroongold" alt="GitHub Streak" /></a>
---->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
